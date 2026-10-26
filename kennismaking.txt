@@ -1,3 +1,4 @@
 Mijn voornaam
 achternaam
 Ik leer DevOps!
+Dit is een oefening met git reset.
